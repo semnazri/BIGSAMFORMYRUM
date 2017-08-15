@@ -1,0 +1,29 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:background="@color/navdrawer_color">
+
+    <include
+        android:id="@+id/nav_header"
+        layout="@layout/nav_header_layout"/>
+
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="1dp"
+        android:background="@color/btn_bg"/>
+
+
+    <ExpandableListView
+        android:layout_marginTop="10dp"
+        android:background="@color/navdrawer_color"
+        android:id="@+id/expandableListView1"
+        android:layout_width="match_parent"
+        android:groupIndicator="@null"
+        android:layout_height="wrap_content"
+        android:layout_alignParentRight="true"
+        android:layout_alignParentTop="true"/>
+
+
+
+</LinearLayout>

@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "969311667919",
+    "firebase_url": "https://tes1-62b2d.firebaseio.com",
+    "project_id": "tes1-62b2d",
+    "storage_bucket": "tes1-62b2d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:969311667919:android:420df822a50e8948",
+        "android_client_info": {
+          "package_name": "com.sibertama.bigforum"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "969311667919-nsufslqtr0f525sts38aoeh8sm0k7vak.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.sibertama.bigforum",
+            "certificate_hash": "2FFF9C546E49277D327C869725015C6130D6F316"
+          }
+        },
+        {
+          "client_id": "969311667919-o4ftf0pq4dhmusn97ge30rr4lodt10th.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDfasELUNspc4HrXFXJ5ucnrXEYzvKuAjc"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "969311667919-o4ftf0pq4dhmusn97ge30rr4lodt10th.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

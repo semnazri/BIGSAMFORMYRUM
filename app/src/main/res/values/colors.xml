@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark1">#303F9F</color>
+    <color name="colorPrimaryDark">#2B81BC</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="bgcolor">#2B81BC</color>
+    <color name="navdrawer_color">#F0F0F0</color>
+    <color name="white">#FFFFFF</color>
+    <color name="black">#000000</color>
+    <color name="grey_light">#000000</color>
+    <color name="text_blue">#70B0D6</color>
+    <color name="bg_forum">#E7EDF9</color>
+    <color name="dashboard_last_color">#3F4953</color>
+    <color name="color_detail_dashboard">#D18185</color>
+    <color name="lineview_color">#F7F7F7</color>
+    <color name="orange">#F37609</color>
+    <color name="orange2">#ffb600</color>
+    <color name="btn_bg">#BEC4DA</color>
+    <color name="btn_color">#00A8FF</color>
+    <color name="yellow">#F7F702</color>
+    <color name="background_fragment">#E5ECF8</color>
+    <color name="text_color_sejarah">#373E4A</color>
+    <color name="red">#ff3f2b </color>
+    <color name="red_2">#db2020</color>
+    <color name="form_cuti_color_bg">#EEEEEE</color>
+    <color name="green">#1ab64a</color>
+    <color name="disaprove_color">#bfbfbf</color>
+    <color name="text_item">#a8a8a8</color>
+
+
+    <integer-array name="intarr_swipe_refresh_layout">
+        <item>@color/colorPrimaryDark</item>
+        <item>@color/yellow</item>
+        <item>@color/red</item>
+    </integer-array>
+
+</resources>
